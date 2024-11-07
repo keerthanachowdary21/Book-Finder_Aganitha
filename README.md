@@ -3,6 +3,9 @@
 ## Overview
 The **Book Finder** is a web application designed to help users search for books by their titles. It allows users to enter a book title in the search bar, fetches results from the Open Library API, and displays relevant book details like titles, authors, and covers. Users can also press "Enter" to search for books, making it more user-friendly.
 
+## Library Management
+<div><img src='https://drive.google.com/uc?id=16RH8pNZ0neJoykH4iqDlM0930el4r4mD' alt='image'/></div>
+
 ## Features
 - Search for books by title using the Open Library API.
 - Displays book details such as title, author, and cover image.
